@@ -1,5 +1,5 @@
 M = input('輸入體重: ')
-H = input('輸入身高: ')
+H = input('輸入身高(單位:公尺): ')
 M = float(M)
 H = float(H)
 BMI = M / (H * H)
